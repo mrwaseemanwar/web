@@ -1,0 +1,13 @@
+ <?xml version="1.0" encoding="utf-8"?>
+            <browserconfig>
+               <msapplication>
+                 <tile>
+                    <square70x70logo src="https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w70-h70-p/favicon-b.png"/>
+                    <square150x150logo src="https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w150-h150-p/favicon-b.png"/>
+                    <wide310x150logo src="https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w310-h150-p/favicon-b.png"/>
+                    <square310x310logo src="https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w310-h310-p/favicon-b.png"/>
+                    <TileColor>#000</TileColor>
+                    <TileImage src="https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w150-h150-p/favicon-b.png"/>
+                 </tile>
+               </msapplication>
+            </browserconfig>
