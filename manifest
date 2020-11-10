@@ -1,1 +1,38 @@
-{"name":"StylesMentor","short_name":"StylesMentor","icons":[{"src":"https://1.bp.blogspot.com/-FJSABRGcFGs/XxwMDC7CWHI/AAAAAAAAADg/7lKKefOgPrsKfutoXFmVyHa9Qsa4dgC4gCLcBGAsYHQ/w192-h192/StylesMentor-Logo.jpg","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"https://1.bp.blogspot.com/-FJSABRGcFGs/XxwMDC7CWHI/AAAAAAAAADg/7lKKefOgPrsKfutoXFmVyHa9Qsa4dgC4gCLcBGAsYHQ/w512-h512/StylesMentor-Logo.jpg","sizes":"512x512","type":"image/png"}],"theme_color":"#fff","background_color":"#000","display":"standalone"}
+{
+  "short_name": "StylesMentor",
+  "name": "StylesMentor?",
+  "description": "StylesMentor delivers insight into fashion, style, beauty, design, and more to make your life happier and better.",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w192-h192-p/favicon-b.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w512-h512-p/favicon-b.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "StylesMentor",
+      "short_name": "StylesMentor",
+      "description": "StylesMentor delivers insight into fashion, style, beauty, design, and more to make your life happier and better.",
+      "url": "/",
+      "icons": [{ "src": "https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w192-h192-p/favicon-b.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "StylesMentor",
+      "short_name": "StylesMentor",
+      "description": "StylesMentor delivers insight into fashion, style, beauty, design, and more to make your life happier and better.",
+      "url": "/",
+      "icons": [{ "src": "https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w192-h192-p/favicon-b.png", "sizes": "192x192" }]
+    }
+  ]
+}
