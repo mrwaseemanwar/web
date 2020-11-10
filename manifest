@@ -14,10 +14,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://blogdesigndemo1.blogspot.com/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://blogdesigndemo1.blogspot.com/",
   "theme_color": "#3367D6",
   "shortcuts": [
     {
@@ -31,7 +31,7 @@
       "name": "StylesMentor",
       "short_name": "StylesMentor",
       "description": "StylesMentor delivers insight into fashion, style, beauty, design, and more to make your life happier and better.",
-      "url": "/",
+      "url": "https://blogdesigndemo1.blogspot.com/",
       "icons": [{ "src": "https://1.bp.blogspot.com/-EaO0OqCbBoA/X6rpQqm3UkI/AAAAAAAAAGw/SvafvQz3rksvapWzlPHQ42xlmSbURfo7QCLcBGAsYHQ/w192-h192-p/favicon-b.png", "sizes": "192x192" }]
     }
   ]
